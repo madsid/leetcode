@@ -6,7 +6,7 @@ namespace leetCode
     {
         static void Main(string[] args)
         {
-            Problem190.Solution();
+            Problem476.Solution();
             Console.WriteLine("Done!");
             Console.ReadLine();
         }
